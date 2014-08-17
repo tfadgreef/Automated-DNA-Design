@@ -1,0 +1,12 @@
+home = /home/hroekel/DNAStranddesign/nupack3.0
+T = 42.0
+material = dna
+ordered = True
+pairs = False
+mfe = True
+degenerate = False
+dangles = some
+timeonly = False
+quiet = False
+sodium = 0.051
+magnesium = 0.006
